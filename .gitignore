@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+client_secret.json
+token.json
+*.db
+.env
+
+# macOS
+.DS_Store
